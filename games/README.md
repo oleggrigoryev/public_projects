@@ -1,6 +1,6 @@
 # Исследование рынка недвижимости
 
-[Файл ipynb](https://github.com/oleggrigoryev/public_projects/blob/main/real_estate/notebook_project_RealEstateSpb_oleg_grigoryev.ipynb)
+[Файл ipynb](https://github.com/oleggrigoryev/public_projects/blob/main/games/notebook_prefab_games_oleg_grigoryev.ipynb)
 
 ## Описание проекта
 

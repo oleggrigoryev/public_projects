@@ -10,12 +10,12 @@
 
 ## Стек
 
-- _python
-- _pandas
-- _numpy
-- _plotly
-- _seaborn
-- _matplotlib
+- _python_
+- _pandas_
+- _numpy_
+- _plotly_
+- _seaborn_
+- _matplotlib_
 - _data visualization_ 📊
 
 ## 

@@ -1,4 +1,4 @@
-# Исследование рынка недвижимости
+# Модель для прогнозирования стоимости автомобилей
 
 [Файл ipynb](https://github.com/oleggrigoryev/public_projects/blob/main/car_service/notebook_project_carservice_oleg_grigoryev.ipynb)
 

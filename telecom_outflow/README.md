@@ -1,4 +1,4 @@
-# Исследование рынка недвижимости
+# Модель для прогнозирования оттока клиентов телеком компании
 
 [Файл ipynb](https://github.com/oleggrigoryev/public_projects/blob/main/telecom_outflow/notebook_project_telecomOutflow_oleg_grigoryev.ipynb)
 

@@ -10,20 +10,18 @@
 
 ## Навыки и инструменты
 
-- **python**
-- **pandas**
-- **numpy**
-- **scipy**
-- sklearn.model_selection.**cross_val_score**
-- sklearn.metrics.**mean_squared_error**
-- sklearn.metrics.**mean_absolute_error**
-- sklearn.preprocessing.**StandardScaler**
-- sklearn.linear_model.**LinearRegression**
-- sklearn.tree.**DecisionTreeRegressor**
-- sklearn.ensemble.**RandomForestRegressor**
-- **matplotlib**
-
-## 
+- _python_
+- _pandas_
+- _numpy_
+- _scipy_
+- _sklearn.model_selection.cross_val_score_
+- _sklearn.metrics.mean_squared_error_
+- _sklearn.metrics.mean_absolute_error_
+- _sklearn.preprocessing.StandardScaler_
+- _sklearn.linear_model.LinearRegression_
+- _sklearn.tree.DecisionTreeRegressor_
+- _sklearn.ensemble.RandomForestRegressor_
+- _matplotlib_
 
 ## Общий вывод
 

@@ -1,4 +1,4 @@
-# Анализ текстов
+# Выявление токсичных комментариев
 
 [Файл ipynb](https://github.com/oleggrigoryev/public_projects/blob/main/nlp/notebook_MLTexts_oleg_grigoryev_public.ipynb)
 
@@ -10,14 +10,14 @@
 
 ## Навыки и инструменты
 
-- **python**
-- **pandas**
-- **numpy**
-- nltk.stem.**WordNetLemmatizer**
-- sklearn.feature_extraction.text.**TfidfVectorizer**
-- sklearn.linear_model.**LogisticRegression**
-- sklearn.ensemble.**RandomForestClassifier**
-- catboost.**CatBoostClassifier**
+- _python_
+- _pandas_
+- _numpy_
+- _nltk.stem.WordNetLemmatizer_
+- _sklearn.feature_extraction.text.TfidfVectorizer_
+- _sklearn.linear_model.LogisticRegression_
+- _sklearn.ensemble.RandomForestClassifier_
+- +catboost.CatBoostClassifier_
 
 
 

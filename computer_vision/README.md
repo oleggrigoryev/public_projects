@@ -1,4 +1,4 @@
-# Исследование рынка недвижимости
+# Определение возраста клиентов по фото
 
 [Файл ipynb](https://github.com/oleggrigoryev/public_projects/blob/main/computer_vision/notebook_CV_oleggrigoryev_public.ipynb)
 

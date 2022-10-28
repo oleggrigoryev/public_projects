@@ -17,7 +17,7 @@
 - _sklearn.feature_extraction.text.TfidfVectorizer_
 - _sklearn.linear_model.LogisticRegression_
 - _sklearn.ensemble.RandomForestClassifier_
-- +catboost.CatBoostClassifier_
+- _catboost.CatBoostClassifier_
 
 
 

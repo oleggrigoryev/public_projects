@@ -10,13 +10,11 @@
 
 ## Стек
 
-- **python**
-- **pandas**
-- **numpy**
-- **pymystem3**
-- **matplotlib**
-
-## 
+- _python_
+- _pandas_
+- _numpy_
+- _pymystem3_
+- _matplotlib_
 
 ## Общий вывод
 
